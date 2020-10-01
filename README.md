@@ -8,7 +8,7 @@ Include the following in your HTML.
 
 Now simply include the class `size` with the desired size in the HTML tag. The size can be from 0px to 256px.
 
-Example:
+**Example:**
 
     <p class="size12">Hello world</p>
 
