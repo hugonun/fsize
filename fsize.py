@@ -1,3 +1,7 @@
+# MIT License
+#
+# Copyright (c) 2020 hugonun
+
 i = 0
 
 with open('fsize.css', 'w') as f:
