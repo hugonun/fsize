@@ -2,7 +2,7 @@
 Simple CSS library to change font size using classes.
 
 ## Usage
-Include the following in your HTML.
+Include the following in your HTML:
 
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/hugonun/fsize/fsize.css">
 
